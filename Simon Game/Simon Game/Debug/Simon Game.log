@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\city\documents\visual studio 2015\projects\simon game\simon game\source.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\city\documents\visual studio 2015\projects\simon game\simon game\source.cpp(53): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+c:\users\city\documents\visual studio 2015\projects\simon game\simon game\source.cpp(88): warning C4018: '<': signed/unsigned mismatch
+  Simon Game.vcxproj -> c:\users\city\documents\visual studio 2015\Projects\Simon Game\Debug\Simon Game.exe
+  Simon Game.vcxproj -> c:\users\city\documents\visual studio 2015\Projects\Simon Game\Debug\Simon Game.pdb (Full PDB)
